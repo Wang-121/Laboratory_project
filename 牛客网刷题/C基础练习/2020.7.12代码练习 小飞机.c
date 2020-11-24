@@ -1,4 +1,4 @@
-//С�ɻ�
+//Ð¡·É»ú
 #include<stdio.h>
 int main()
 {
