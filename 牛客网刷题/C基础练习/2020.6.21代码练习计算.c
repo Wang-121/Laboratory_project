@@ -1,4 +1,4 @@
-//¼ÆËã(a+b-c)*d//
+//Â¼Ã†Ã‹Ã£(a+b-c)*d//
 #include<stdio.h>
 int main()
 {
