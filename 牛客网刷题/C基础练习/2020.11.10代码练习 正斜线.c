@@ -1,4 +1,4 @@
-//正斜线形图案
+//脮媒脨卤脧脽脨脦脥录掳赂
 #include<stdio.h>
 int main()
 {
