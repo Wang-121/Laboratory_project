@@ -1,4 +1,4 @@
-//是否被叫家长//
+//脢脟路帽卤禄陆脨录脪鲁陇//
 #include<stdio.h>
 int main()
 {
