@@ -1,4 +1,4 @@
-//计算平均成绩
+//录脝脣茫脝陆戮霉鲁脡录篓
 #include<stdio.h>
 int main()
 {
