@@ -1,4 +1,4 @@
-//printf的返回值
+//printf碌脛路碌禄脴脰碌
 #include<stdio.h>
 int main()
 {
