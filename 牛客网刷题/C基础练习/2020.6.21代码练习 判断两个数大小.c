@@ -1,4 +1,4 @@
-//判断两个数大小//
+//脜脨露脧脕陆赂枚脢媒麓贸脨隆//
 #include<stdio.h>
 int main()
 {
