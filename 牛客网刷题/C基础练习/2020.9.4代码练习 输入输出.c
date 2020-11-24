@@ -1,4 +1,4 @@
-//出生日期输入输出
+//鲁枚脡煤脠脮脝脷脢盲脠毛脢盲鲁枚
 #include<stdio.h>
 int main()
 {
