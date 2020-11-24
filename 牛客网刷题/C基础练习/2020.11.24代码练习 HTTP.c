@@ -1,4 +1,4 @@
-//HTTP״̬��
+//HTTP×´Ì¬Âë
 #include <stdio.h>
 int main(){
     int a;
