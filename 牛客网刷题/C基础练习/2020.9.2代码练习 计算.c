@@ -1,4 +1,4 @@
-//计算体重指数
+//录脝脣茫脤氓脰脴脰赂脢媒
 #include<stdio.h>
 int main()
 {
