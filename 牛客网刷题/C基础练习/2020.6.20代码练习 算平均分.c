@@ -1,4 +1,4 @@
-//算平均分//
+//脣茫脝陆戮霉路脰//
 #include<stdio.h>
 int main()
 {
