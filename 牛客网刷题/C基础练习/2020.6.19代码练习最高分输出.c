@@ -1,4 +1,4 @@
-//最高分//
+//脳卯赂脽路脰//
 #include<stdio.h>
 int main()
 {
