@@ -1,4 +1,4 @@
-//翻转金字图案
+//路颅脳陋陆冒脳脰脥录掳赂
 #include<stdio.h>
 
 int main(){
