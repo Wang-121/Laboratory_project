@@ -1,4 +1,4 @@
-//及格分数
+//录掳赂帽路脰脢媒
 #include<stdio.h>
 int main()
 {
