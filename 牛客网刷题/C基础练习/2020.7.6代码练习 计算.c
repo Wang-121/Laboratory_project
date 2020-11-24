@@ -1,4 +1,4 @@
-//计算带余除法
+//录脝脣茫麓酶脫脿鲁媒路篓
 #include<stdio.h>
 int main()
 {
