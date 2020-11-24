@@ -1,4 +1,4 @@
-//实践出真知
+//脢碌录霉鲁枚脮忙脰陋
 #include<stdio.h>
 int main()
 {
