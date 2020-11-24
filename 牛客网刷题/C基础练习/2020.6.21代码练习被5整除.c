@@ -1,4 +1,4 @@
-//被5整除问题//
+//卤禄5脮没鲁媒脦脢脤芒//
 #include<stdio.h>
 int main()
 {
