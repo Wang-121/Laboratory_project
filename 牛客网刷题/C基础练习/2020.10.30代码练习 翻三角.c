@@ -1,4 +1,4 @@
-//翻转直角三角形图案
+//路颅脳陋脰卤陆脟脠媒陆脟脨脦脥录掳赂
 #include<stdio.h>
 int main()
 {
