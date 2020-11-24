@@ -1,4 +1,4 @@
-//你能活多少秒?
+//脛茫脛脺禄卯露脿脡脵脙毛?
 #include<stdio.h>
 int main()
 {
