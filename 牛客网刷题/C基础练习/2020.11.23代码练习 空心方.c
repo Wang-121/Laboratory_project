@@ -1,4 +1,4 @@
-//空心正方形图案
+//驴脮脨脛脮媒路陆脨脦脥录掳赂
 #include<stdio.h>
 int main()
 {
