@@ -1,4 +1,4 @@
-//直角三角形图案
+//脰卤陆脟脠媒陆脟脨脦脥录掳赂
 #include<stdio.h>
 int main()
 {
