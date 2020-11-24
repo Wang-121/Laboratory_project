@@ -1,4 +1,4 @@
-//ÁâĞÎÍ¼°¸
+//ÃÃ¢ÃÃÃÂ¼Â°Â¸
 #include<stdio.h>
 int main(){
     int n=0;
