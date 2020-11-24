@@ -1,4 +1,4 @@
-//计算一元二次方程
+//录脝脣茫脪禄脭陋露镁麓脦路陆鲁脤
 #include<stdio.h>
 #include<math.h>
 int main()
