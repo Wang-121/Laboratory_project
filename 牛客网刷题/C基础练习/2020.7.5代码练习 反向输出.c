@@ -1,4 +1,4 @@
-//反向输出一个四位数
+//路麓脧貌脢盲鲁枚脪禄赂枚脣脛脦禄脢媒
 #include<stdio.h>
 int main()
 {
